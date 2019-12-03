@@ -1,0 +1,2 @@
+include ':app', ':tstatus'
+rootProject.name='TstatusDemo'

@@ -1,0 +1,9 @@
+<resources>
+    <string name="loading_alert">加载中…</string>
+    <string name="empty_alert">没有更多数据</string>
+    <string name="server_alert">服务器出错</string>
+    <string name="network_alert">网络不给力</string>
+    <integer name="sd_close_animation_duration">200</integer>
+    <integer name="sd_open_animation_duration">200</integer>
+    <integer name="sd_rotate_animation_duration">200</integer>
+</resources>

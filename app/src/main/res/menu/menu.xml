@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/status_loading" android:title="@string/loading_alert"/>
+    <item android:id="@+id/status_empty" android:title="@string/empty_alert"/>
+    <item android:id="@+id/status_network_error" android:title="@string/network_alert"/>
+    <item android:id="@+id/status_server_error" android:title="@string/server_alert"/>
+    <item android:id="@+id/status_content" android:title="@string/app_name"/>
+</menu>
